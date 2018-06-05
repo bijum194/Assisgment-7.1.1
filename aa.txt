@@ -1,0 +1,21 @@
+Assignment 7.1
+
+1. Histogram for all variables in a dataset mtcars. Write a program to create histograms for all columns.
+hist(mtcars$mpg), hist(mtcars$cyl), hist(mtcars$disp), hist(mtcars$hp)
+
+2. Check the probability distribution of all variables in mtcars
+NA
+
+3. Write a program to create boxplot for all variables.
+boxplot(mtcars$mpg), boxplot(mtcars$disp)
+
+
+
+
+
+ 
+
+
+
+
+
